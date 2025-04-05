@@ -1,1 +1,1 @@
-# python-mini-project
+Movie Ticket Booking project python by rachit
